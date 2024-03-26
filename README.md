@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Движение шаров реализовано с помощью зажатия левой кнопки мыши, а смена цвета шара правой кнопкой мыши.
 
 ## Available Scripts
 
